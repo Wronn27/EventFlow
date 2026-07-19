@@ -4,12 +4,6 @@ The Event Ticket Platform is a Spring Boot application that lets organizers crea
 tickets, event goers buy those tickets, and staff scan ticket QR codes at the event. Authentication
 is handled by Keycloak. The frontend is a React application built with Vite.
 
-## The Build Guide
-
-The full step-by-step write-up of the build lives in
-[docs/event-ticket-app-combined.md](docs/event-ticket-app-combined.md). It covers the project brief,
-the user stories and UI designs, the domain and architecture design, and then builds the backend up
-endpoint by endpoint.
 
 ## What's In This Repo
 
